@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <IsPackable>true</IsPackable>
+        <PackageVersion>1.0.0</PackageVersion>
+        <PackageId>Xmf2.DisposableExtensions</PackageId>
+        <Title>Xmf2.DisposableExtensions</Title>
+        <Authors>Valentin Jubert</Authors>
+        <Description>Extensions for System.IDisposable</Description>
+        <Copyright>Copyright 2019</Copyright>
+        <PackageLicense>https://github.com/Ideine/Xmf2.DisposableExtensions/LICENSE</PackageLicense>
+        <PackageProjectUrl>https://github.com/Ideine/Xmf2.DisposableExtensions</PackageProjectUrl>
+        <PackageTags>xmf2;disposable</PackageTags>
+    </PropertyGroup>
+</Project>

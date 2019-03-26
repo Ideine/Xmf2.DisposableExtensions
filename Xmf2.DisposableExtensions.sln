@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xmf2.DisposableExtensions", "src\Xmf2.DisposableExtensions\Xmf2.DisposableExtensions.csproj", "{DBA2CA3D-BB0B-4785-84D3-330F262E3148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA2CA3D-BB0B-4785-84D3-330F262E3148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA2CA3D-BB0B-4785-84D3-330F262E3148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA2CA3D-BB0B-4785-84D3-330F262E3148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA2CA3D-BB0B-4785-84D3-330F262E3148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
